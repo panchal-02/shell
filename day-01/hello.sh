@@ -1,29 +1,31 @@
-#this is my day01 of shell
+#!/bin/bash
 
-echo " enter your name: "  
+echo "Enter your name:"
 read name
+sleep 2
 
-     sleep 2
- echo " wlecome $name "
-     sleep 2
+echo "Welcome, $name!"
+sleep 2
 
- echo " how r u today "
-    sleep 2
+echo "How are you today?"
+read mood
+sleep 2
 
- read xy
-    sleep 2
- echo " nice to hear that u r $xy "
-    sleep 2
- 
- echo " what u want to do today "
- read x
- sleep 2
- echo " sound intresting $x "
-    sleep 2
-   echo " .
-   .
-  .
- .
+echo "Nice to hear that you are $mood."
+sleep 2
+
+echo "What do you want to do today?"
+read plan
+sleep 2
+
+echo "Sounds interesting: $plan"
+sleep 2
+
+echo "
+.
+.
+.
+.
 .
 .
 .
@@ -31,4 +33,5 @@ read name
 "
 sleep 3
 
-    echo " end "
+echo "End"
+
