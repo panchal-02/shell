@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Simple interactive greeting script
+
 echo "Enter your name:"
 read name
 sleep 2
