@@ -33,5 +33,9 @@ This script is intentionally simple to focus on **fundamentals**, not complexity
 Make the script executable:
 ```bash
 chmod +x hello.sh
+## run it:
+./hello.sh
+
+
 
 
