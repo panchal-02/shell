@@ -1,30 +1,31 @@
-# Day 01 – Shell Scripting Basics
+# Day 01 – Interactive Bash Script
 
-This is **Day 01** of my shell scripting learning journey.
+This script is part of **Day 01** of my shell scripting learning journey.
 
-On this day, I created my **first interactive Bash script** to understand how basic shell programs work with user input and execution flow.
-
----
-
-## 📌 What This Script Covers
-
-- Taking user input using `read`
-- Storing input in variables
-- Printing output using `echo`
-- Adding execution delays with `sleep`
-- Understanding basic script flow
+The goal of this exercise was to understand how **basic Bash scripts interact with users**, handle input, and execute commands sequentially.
 
 ---
 
-## 🛠 Script Overview
+##  What This Script Does
 
 The script:
-1. Asks the user for their name
-2. Interacts with the user through simple questions
-3. Responds based on the provided input
-4. Demonstrates sequential execution in Bash
+- Asks the user for their name
+- Greets the user personally
+- Asks about the user’s mood
+- Asks what the user plans to do today
+- Responds based on the provided inputs
+- Uses delays to demonstrate execution flow
 
-This script is intentionally simple to focus on **fundamentals**, not complexity.
+---
+
+##  Concepts Covered
+
+- User input using `read`
+- Output using `echo`
+- Variables in Bash
+- Sequential execution
+- Adding delays with `sleep`
+- Basic script structure with a shebang (`#!/bin/bash`)
 
 ---
 
@@ -34,3 +35,5 @@ Make the script executable:
 ```bash
 chmod +x hello.sh
 
+## Run it
+  ./hello.sh
