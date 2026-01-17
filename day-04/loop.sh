@@ -2,7 +2,7 @@
     #!/bin/bash
 
 
-#day-03 loop in bash 
+#day-04 loop in bash 
 
 read -p "Enter you name : " name
 

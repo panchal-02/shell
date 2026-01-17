@@ -1,4 +1,4 @@
-# Day 03 – Multiplication Table Using Loops in Bash
+# Day 04 – Multiplication Table Using Loops in Bash
 
 This script is part of **Day 03** of my shell scripting learning journey.
 

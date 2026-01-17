@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#this day-04 of bash
+#printing table by using loop
 
 
 echo "Printing  Table by using loop "
