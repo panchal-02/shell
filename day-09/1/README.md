@@ -1,4 +1,4 @@
-# Logging & Error Handling in Bash
+#This is day-09: Logging & Error Handling in Bash
 
 This script demonstrates how to implement **logging, argument validation, and error handling** in a Bash script.
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This is day-09:Logging & Error Handling in Bash
 
 log_file="script.log"
 
