@@ -27,5 +27,4 @@ else
 	echo "division and modulus is not possible "
   fi
   sleep 2
-ssh -i "shell-key.pem" ec2-user@ec2-13-235-70-255.ap-south-1.compute.amazonaws.com
   echo "End ....."
