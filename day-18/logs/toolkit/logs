@@ -1,0 +1,48 @@
+20260128 18:32:15 -toolkit started  
+20260128 18:32:15 -ok: dsik usage is 23  
+20260128 18:32:15 -ok: mem. usage is   
+20260128 18:32:16 -ok: sshd is running 
+20260128 18:32:16 -backup created : /home/day-18/backups/backup _20260128 18:32:16.tar.gz 
+20260128 18:32:16 -toolkit completed successfully 
+20260128 18:35:31 -toolkit started  
+20260128 18:35:31 -ok: dsik usage is 23  
+20260128 18:35:31 -ok: mem. usage is   
+20260128 18:35:31 -ok: sshd is running 
+20260128 18:35:31 -backup created : /home/day-18/backups/backup _20260128 18:35:31.tar.gz 
+20260128 18:35:31 -toolkit completed successfully 
+20260128 18:38:16 -toolkit started  
+20260128 18:38:16 -WARNING: disk usage is high = 23  
+20260128 18:38:16 -ok: mem. usage is %.0f33.292  
+20260128 18:38:17 -ok: sshd is running 
+20260128 18:38:17 -backup created : /home/day-18/backups/backup _20260128 18:38:17.tar.gz 
+20260128 18:38:17 -toolkit completed successfully 
+20260128 18:39:31 -toolkit started  
+20260128 18:39:31 -ok: dsik usage is 23  
+20260128 18:39:31 -ok: mem. usage is %.0f 
+20260128 18:39:32 -ok: sshd is running 
+20260128 18:39:32 -backup created : /home/day-18/backups/backup _20260128 18:39:32.tar.gz 
+20260128 18:39:32 -toolkit completed successfully 
+20260128 18:41:10 -toolkit started  
+20260128 18:41:10 -ok: dsik usage is 23  
+20260128 18:41:10 -ok: mem. usage is 33  
+20260128 18:41:10 -ok: sshd is running 
+20260128 18:41:11 -backup created : /home/day-18/backups/backup _20260128 18:41:10.tar.gz 
+20260128 18:41:11 -toolkit completed successfully 
+20260128 18:42:41 -toolkit started  
+20260128 18:42:41 -ok: dsik usage is 23  
+20260128 18:42:41 -ok: mem. usage is 33  
+20260128 18:42:42 -ok: sshd is running 
+20260128 18:42:42 -backup created : /home/day-18/backups/backup _20260128 18:42:42.tar.gz 
+20260128 18:42:42 -toolkit completed successfully 
+20260128 19:07:50 -toolkit started  
+20260128 19:07:50 -ok: dsik usage is 23  
+20260128 19:07:50 -ok: mem. usage is 38  
+20260128 19:07:50 -ok: sshd is running 
+20260128 19:07:50 -backup created : /home/day-18/backups/backup _20260128 19:07:50.tar.gz 
+20260128 19:07:50 -toolkit completed successfully 
+20260128 19:08:15 -toolkit started  
+20260128 19:08:15 -ok: dsik usage is 23  
+20260128 19:08:15 -ok: mem. usage is 36  
+20260128 19:08:15 -ok: sshd is running 
+20260128 19:08:15 -backup created : /home/day-18/backups/backup _20260128 19:08:15.tar.gz 
+20260128 19:08:15 -toolkit completed successfully 
